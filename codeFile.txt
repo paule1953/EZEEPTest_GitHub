@@ -1,3 +1,11 @@
-1. �nderung
+1. Änderung
 
-2. �nderung in develop
+2. Änderung in develop
+
+3. Änderung in develop - noch kein release Zweig erzeugt
+
+4. Änderung im release, da sich bei den Tests ergeben hat das etwas nicht funktioniert.
+
+5. Änderung im release, da sich bei den Tests ergeben hat das etwas nicht funktioniert.
+
+6. Änderung im release, da sich bei den Tests ergeben hat das etwas nicht funktioniert.
