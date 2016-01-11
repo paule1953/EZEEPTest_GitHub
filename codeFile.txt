@@ -1,0 +1,1 @@
+Erste bug fix während des testens von release/1.2
