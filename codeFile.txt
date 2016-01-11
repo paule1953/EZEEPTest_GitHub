@@ -7,3 +7,5 @@
 4. Änderung im release, da sich bei den Tests ergeben hat das etwas nicht funktioniert.
 
 5. Änderung im release, da sich bei den Tests ergeben hat das etwas nicht funktioniert.
+
+6. Änderung im release, da sich bei den Tests ergeben hat das etwas nicht funktioniert.
